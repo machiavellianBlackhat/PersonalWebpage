@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Micah Rocha's Portfolio</title>
+</head>
+<body>
+<h1>Micah Rocha</h1>
+<hr/>
+<article>
+	<h2>Welcome!</h2>
+<p>Welcome to my website! This website, currently, looks absolutely awful, but welcome regardless. The purpose of this website is, in short,
+	 shameless showing off. On this website you'll be able to find things like demonstrations and notes on my
+	 various projects, discussions on various information technology and security concepts, and other info tech concepts. So welcome!
+	 Make sure and take a look around.</p>
+</article>
+<article>
+	<h3>My education goals</h3>
+	&nbsp;
+	<p>My goals for my education are, in short, to both grow and explore in the field of information security through improving my skills,
+		and to attain a degree and/or high level certification in both programming and networking. I am already working to achieve these goals through
+		tech prep programs, working with various technologies outside of school, and help from my teachers. As a rough estimate,
+		I believe I'll be able to achieve these goals within as little as five years from now (February 2016).</p>
+</article>	
+<article>
+	<h3>My employment goal</h3>
+	&nbsp;
+	<p>My goal for employment, is someday to become employed as a whitehat hacker or penetration tester with a company like Raytheon.
+		The skills I'm already beggining to learn, combined with the knowledge base being provided to me and expanded on by my
+		instructors, will both go a long way towards building a useful foundation in the field. I hope to have achieved this goal within a few years of having
+		finished my college education, if not before then.</p>
+</article>	
+</body>
+</html>
