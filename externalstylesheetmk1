@@ -1,0 +1,6 @@
+/* @CHARSET "ISO-8859-1"; */
+h1, h2, h3, h4, h5, h6 {
+		color:#084ca1;
+		background-color:#c0c0c0;
+	}
+/*#c0c0c0 is the Standard 16 color Silver. It is specified with Hex code for unifomity's sake*/
