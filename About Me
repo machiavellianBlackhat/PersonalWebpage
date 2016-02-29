@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- meta charset="ISO-8859-1" -->
+<title>About Micah Rocha</title>
+<link type="text/css" rel="stylesheet" href="externalstylesheetmk1.css"/>
+<style>
+#textcol {
+	width:85%;float:left;position:relative;
+}
+#imgcol {
+	width:10%;float:right;position:relative;margin-right:30px; margin-top:20px;
+}
+</style>
+</head>
+<body>
+<header> <h1 style="text-align:center">Micah Rocha</h1> </header>
+<nav><h6 style="font-size:22px"><a href="index.html">Home</a>
+			| <a href="aboutme.html">About me</a>
+			| <a href="otherprojects.html">Web Design</a> 
+			| <a href="otherprojects.html">C++ Projects</a> 
+			| <a href="otherprojects.html"> Java Projects</a>
+			| <a href="otherprojects.html"> BPA</a>
+			| <a href="otherprojects.html"> Other Projects</a>
+			| <a href="otherprojects.html"> Badges Earned</a>
+			| <a href="otherprojects.html"> Discussion/Forum Board</a></h6><hr/></nav>
+<!-- img src="logo.PNG" alt="My Logo" style="width:467px;height:265px;float:left;" -->
+<div id="imgcol">
+ <img src="Me2.png" alt="A picture of me" style="width:108px;height:108px;border-style:solid;border-width:6px;border-color:#c0c0c0">
+ <img src="wordle.PNG" alt="A wordle" style="width:147px;height:104px;border-style:solid;border-width:6px;border-color:#c0c0c0">
+</div>
+<div>
+<section id="textcol">
+	<h2>About Micah Rocha</h2>
+	<article>
+		<h3>A little bit of background</h3>
+		<p>
+			I am currently a student at Miami Valley Career Technology center, although my home school and one of the schools 
+			they partner with is Miamisburg High School. I am 17 years old, and from Miamisburg, Ohio. Currently, I'm studying
+			Computer Programming and Web Applications under Melissa Goodall, and will be until summer of 2017 when I graduate.
+			I've recently completed both the CIS 1111 and BIS 1120 tests, so I've already earned some college credits. Some of
+			my hobbies actually relate to the field, as I enjoy working with and learning tools like Kali Linux, the Social Engineering Toolkit,
+			the Tor anonymity and security systems, and Wireshark. I'm also an active practitioner of TaeKwonDo, with some other forms of
+			martial arts mixed in. I'm actively involved in scouting, and I'm the Senior Patrol Leader of my patrol with Troop 402.
+		</p>
+	</article>	
+	<article>
+		<h3>Contact me!</h3>
+		<p>
+			If you're interested in talking to me or have feedback on my site, you can shoot me an E-mail at 
+			<a href="mailto:rochaximus@gmail.com">Rochaximus@gmail.com</a>.
+		</p>
+	</article>
+</section>
+</div>
+<footer id="copyright"><h6 style="margin:450px 0px 0px 0px">&copy; 2016, Micah Rocha, All Rights Reserved</h6></footer>
+</body>
+</html>
