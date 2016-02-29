@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- meta charset="ISO-8859-1" -->
+<title>Micah Rocha's Other Projects</title>
+<link type="text/css" rel="stylesheet" href="externalstylesheetmk1.css"/>
+<style>
+#textcol {
+	width:85%;float:left;position:relative;
+}
+#imgcol {
+	float:right;position:relative;margin-right:20px; margin-top:0px;
+}
+</style>
+</head>
+<body>
+	<header> <h1 style="text-align:center">Micah Rocha</h1> </header>
+<nav><h6 style="font-size:22px"><a href="index.html">Home</a>
+			| <a href="aboutme.html">About me</a>
+			| <a href="otherprojects.html">Web Design</a> 
+			| <a href="otherprojects.html">C++ Projects</a> 
+			| <a href="otherprojects.html">Java Projects</a>
+			| <a href="otherprojects.html">BPA</a>
+			| <a href="otherprojects.html">Other Projects</a>
+			| <a href="otherprojects.html">Badges Earned</a>
+			| <a href="otherprojects.html">Discussion/Forum Board</a></h6><hr/></nav>
+	
+
+
+<section id="textcol">
+	<article>
+		<p style="float:left; position:relative;">
+			The image to the right is an image map I created using the mobile fish image map creator. The red lens will link you
+			to MSPaintAdventures.com, the blue lens will take you to gw.mvctc.com, and the gemini symbol will take you to www.aq.com.
+		</p>
+	</article>
+	<article>
+		<p style="float:left; position:relative; margin-top:300px;">
+			The project pictured to the right is a Sarcastic Reponse Generator I coded in C++.
+		</p>
+	</article>	
+</section>	
+<section id="imgcol">
+	<img src="mx43439.png" usemap="#mx43439" width="146" height="212" alt="click map" border="0" style="float:right; border-style:solid;
+	 border-width:6px; padding:4px; border-color:#c0c0c0; margin-top:16px; margin-bottom:16px;"/>
+<map id="mx43439" name="mx43439">
+<!-- Region 1 -->
+<area shape="rect" alt="Red Lens Link" title="Red Lens Link" coords="37,63,82,100" href="http://www.mspaintadventures.com" target="_blank" />
+<!-- Region 2 -->
+<area shape="rect" alt="Blue Lens Link" title="Blue Lens Link" coords="95,63,134,89" href="http://gw.mvctc.com" target="_blank" />
+<!-- Region 3 -->
+<area shape="circle" alt="Gemini" title="Gemini" coords="67,124,15.5" href="http://www.aq.com" target="_blank" />
+<!-- area shape="default" nohref alt="" /-->
+</map>
+	<article>
+		<table border=1>
+		<caption style="border-style:solid;border-width:2px;">Project Types</caption>
+		<tr>
+			<td>HTML 5</td>
+			<td>CSS 3</td>
+		</tr> 
+		<tr>
+			<td>Java</td>
+			<td>PHP</td>
+		</tr>
+		<tr>
+			<td>C++</td>
+			<td>Misc.</td>
+		</tr>
+		</table>	
+	</article>	
+	<img src="sarcexample.PNG"  alt="A picture of my project" width="168px" height="86px" style="margin-top:20px"/>
+</section>	
+
+
+
+<br/>
+
+<footer id="copyright" style="margin-top:465px"><h6>&copy; 2016, Micah Rocha, All Rights Reserved</h6></footer>
+</body>
+</html>
