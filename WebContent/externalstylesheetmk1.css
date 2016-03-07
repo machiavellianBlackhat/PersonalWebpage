@@ -1,0 +1,53 @@
+/* @CHARSET "ISO-8859-1"; */
+/*background-color:#808080;*/
+header{
+	text-align:center;
+}
+h1, h2, h3, h4, h5, h6 {
+		color:#084ca1;
+		background-color:#c0c0c0;
+		margin-bottom:0px; 
+	}
+/*#c0c0c0 is the Standard 16 color Silver. It is specified with Hex code for unifomity's sake*/
+nav a{
+	color:#3c90f6;
+	font-size: 22px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left:2px;
+	margin-right:2px;
+}
+nav {
+	width:100%
+}
+a:hover {
+	color:#084ca1;
+	background-color:#d9d9d9;
+}
+p {
+	padding:8px;
+	border-style:solid;
+	border-width:4px;
+	border-color:#c0c0c0;
+}
+table, tr, th, td {
+	width:80%;
+	border-style:solid;
+	border-color:#c0c0c0;
+}
+#copyright {
+	width:99%;
+	position:absolute;
+}
+table caption{
+	color:#3c90f6;
+	background-color:#d9d9d9;
+	border-color:#c0c0c0;
+	 border-style:solid;
+	 border-width:4px;
+	 font-size:22px;
+}
+td {
+	margin:0px;
+	padding-left:8px;
+}
