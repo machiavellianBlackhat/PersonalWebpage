@@ -1,0 +1,147 @@
+/* @CHARSET "ISO-8859-1"; */
+/*background-color:#808080;*/
+body {
+	margin:0;
+	padding:0;
+}
+header{
+	background-color:#084CA1;
+	margin:0;
+	text-align:center;
+	padding-bottom:30px;
+}
+header h1{
+	background-color:#C0C0C0;
+	margin:0;
+	text-align:center;
+	padding:0;
+}
+nav h6 {
+	margin-top:0;
+}
+h1, h2, h3, h4, h5, h6 {
+		color:#084CA1;
+		background-color:#c0c0c0;
+		
+	}
+/*#c0c0c0 is the Standard 16 color Silver. It is specified with Hex code for unifomity's sake*/
+
+@keyframes logoanimation {
+  0% {left: 0px; top: 0px;}
+  20% {right: 0px; top: 0px;}
+  40% {left: 48px; top: 0px;}
+  60% {left: 48px; top: 24px;}
+  80% {left: 0px; top: 24px;}
+  100% {left: 0px; top: 0px;}
+}
+
+nav a{
+	padding:0;
+	margin:0;
+	color:#3c90f6;
+	font-size: 22px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left:2px;
+	margin-right:2px;
+}
+nav {
+	padding:0;
+	margin:0;
+	background-color:#084CA1; 
+	width:100%;
+	padding:0;
+	margin:0;
+}
+a:hover {
+	color:#084ca1;
+	background-color:#d9d9d9;
+}
+p {
+	padding:8px;
+	border-style:solid;
+	border-width:4px;
+	border-color:#c0c0c0;
+}
+table, tr, th, td {
+	width:80%;
+	border-style:solid;
+	border-color:#c0c0c0;
+}
+#copyright {
+	width:99%;
+	clear:both;
+	position:relative;
+}
+
+#animation {
+  position: relative;
+
+  /* Chrome and Safari*/
+  -webkit-animation-name: logoanimation;
+  -webkit-animation-duration: 4s;
+  -webkit-animation-timing-function: linear;
+
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+  -webkit-animation-play-state: running;
+
+  animation-name: logoanimation;
+  animation-duration: 4s;
+  animation-timing-function: linear;
+
+  animation-iteration-count: infinite;
+  animation-direction: normal;
+  animation-play-state: running;
+}
+
+table caption{
+	color:#3c90f6;
+	background-color:#d9d9d9;
+	border-color:#c0c0c0;
+	 border-style:solid;
+	 border-width:4px;
+	 font-size:22px;
+}
+td {
+	margin:0px;
+	padding-left:8px;
+}
+
+#topbars {
+	background-color:#084CA1;
+}
+#textcol {
+	background-color:#084CA1;
+	width:65%;
+	float:right;
+	position:relative;
+	border-width:4px;
+	border-color:#c0c0c0;
+	border-style:solid;
+	margin-bottom:10px;
+}
+#textcol p{
+	background-color:#FFFFFF;
+}
+#imgcol {
+	background-color:#084CA1;
+	width:33%;
+	float:left;
+	position:relative;
+	border-width:4px;
+	border-color:#c0c0c0;
+	border-style:solid;
+}
+#imgcol p{
+	background-color:#FFFFFF;
+	margin-bottom:56px;
+}
+#map {
+	height:500;
+	width:500;
+}
+.text h2 {
+	width:100%;
+	position:relative;
+}

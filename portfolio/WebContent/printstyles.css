@@ -1,0 +1,29 @@
+/* Print styles */
+
+
+@page {
+	size: 8.5in 11in;
+	margin: 0.5in;
+}
+body {
+	color: black;
+	background-color: white;
+	background-image: none;
+	font-size: 12pt;
+	font-family: "times new roman", times, serif;
+	line-height: 120%
+}
+nav, header, img, footer {
+	display: none;
+}
+#textcol, #imgcol {
+		width:100%;
+		border-style:none;
+}
+.text, h1, h2, h3, h4, h5, h6, table caption {
+	color:black;
+}
+
+
+
+
